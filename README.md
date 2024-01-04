@@ -1,8 +1,34 @@
-# React + Vite
+# Копия сайта Airbnb
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Просто маленькая копия!
 
-Currently, two official plugins are available:
+[Ссылка на сайт](https://airbnbcopy-akor.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img width="218" alt="image" src="https://github.com/nastyakrlv/airbnbCopy/assets/112975832/80589f71-9c8c-4b30-a0ad-c4fe35c8ceaa">
+
+## Содержание
+
+- [Технологии](#технологии)
+- [Запуск](#запуск)
+
+## Технологии
+
+- React
+- JavaScript
+- HTML
+- CSS
+- Vite
+
+## Запуск
+
+### Запуск проекта на локальном сервере
+
+```
+npm run dev
+```
+
+### Сборка проекта
+
+```
+npm run build
+```
